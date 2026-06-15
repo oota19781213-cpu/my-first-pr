@@ -16,3 +16,5 @@ GitHubのPRワークフローを体験するためのサンプルプロジェク
 ## 貢献方法
 
 バグ報告や改善提案は、Issueからお気軽にどうぞ。
+
+詳しい貢献手順は [CONTRIBUTING.md](CONTRIBUTING.md) をご覧ください。
